@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[outlier]]></title>
         <description><![CDATA[outlier]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/outlier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 22:32:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 02:22:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/outlier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Great Fall's Blue Bells]]></title>
+            <description><![CDATA[<article><h1>Great Fall's Blue Bells</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f3af02f-37e9-41a7-b752-aa2dccd56dc0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/outlier/great-falls-blue-bells/index.html</link>
+            <guid isPermaLink="false">5da55506-b7aa-4f3b-a065-4d969891c148</guid>
+            <pubDate>Mon, 18 Apr 2016 02:21:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbd43bf2-4536-4cc5-886b-c4a4fad28e15.jpg">]]></description>
-            <link>undefinednull/index.html</link>
+            <link>https://thegrid.ai/outlier/null/index.html</link>
             <guid isPermaLink="false">9254a398-ad74-420a-bac4-3dc958578b92</guid>
             <pubDate>Sun, 10 Apr 2016 22:32:01 GMT</pubDate>
         </item>
